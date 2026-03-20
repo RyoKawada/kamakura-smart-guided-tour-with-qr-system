@@ -1,1 +1,1 @@
-# kamakura-smart-guided-tour-with-qr-system
+# Kamakura Smart Guided Tour with QR System
