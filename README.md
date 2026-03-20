@@ -1,0 +1,1 @@
+# kamakura-smart-guided-tour-with-qr-system
